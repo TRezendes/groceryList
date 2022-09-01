@@ -1,7 +1,6 @@
 instance/
 **/__pycache__
 scratch_folder/
-config.py
 **/.env
 **/.flaskenv
 *jupyter*
